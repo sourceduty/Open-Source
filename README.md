@@ -32,4 +32,4 @@ As a concept, "open source" refers to software whose source code is publicly ava
 [Coputational Networks](https://github.com/sourceduty/Computational_Networks)
 
 ***
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
